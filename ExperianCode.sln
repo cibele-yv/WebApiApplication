@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExperianCode", "ExperianCode\ExperianCode.csproj", "{D925EFAE-154A-4B0B-91DD-87187AB34E3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExperianCode.Tests", "ExperianCode.Tests\ExperianCode.Tests.csproj", "{89CA3373-B933-4868-A3BB-B7EEC7E0FD9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D925EFAE-154A-4B0B-91DD-87187AB34E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D925EFAE-154A-4B0B-91DD-87187AB34E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D925EFAE-154A-4B0B-91DD-87187AB34E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D925EFAE-154A-4B0B-91DD-87187AB34E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89CA3373-B933-4868-A3BB-B7EEC7E0FD9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89CA3373-B933-4868-A3BB-B7EEC7E0FD9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89CA3373-B933-4868-A3BB-B7EEC7E0FD9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89CA3373-B933-4868-A3BB-B7EEC7E0FD9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECF5DB70-4019-4077-9131-A543A52DDD1F}
+	EndGlobalSection
+EndGlobal
